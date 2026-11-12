@@ -1,0 +1,19 @@
+{
+    "test_loss": 0.4842207431793213,
+    "test_accuracy": 0.7872340679168701,
+    "balanced_accuracy": 0.7546126953115547,
+    "class_names": [
+        "Calculus",
+        "Caries",
+        "Gingivitis",
+        "Hypodontia",
+        "Mouth_Ulcer",
+        "Tooth_Discoloration"
+    ],
+    "input_shape": [
+        224,
+        224,
+        3
+    ],
+    "input_range": "0..255 RGB; preprocessing included in model"
+}
